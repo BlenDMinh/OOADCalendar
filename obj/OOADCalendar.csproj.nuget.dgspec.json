@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding\\University\\OOAD\\OOADCalendar\\OOADCalendar.csproj": {}
+    "F:\\University\\OOPDesign\\OOADCalendar\\OOADCalendar.csproj": {}
   },
   "projects": {
-    "D:\\Coding\\University\\OOAD\\OOADCalendar\\OOADCalendar.csproj": {
+    "F:\\University\\OOPDesign\\OOADCalendar\\OOADCalendar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding\\University\\OOAD\\OOADCalendar\\OOADCalendar.csproj",
+        "projectUniqueName": "F:\\University\\OOPDesign\\OOADCalendar\\OOADCalendar.csproj",
         "projectName": "OOADCalendar",
-        "projectPath": "D:\\Coding\\University\\OOAD\\OOADCalendar\\OOADCalendar.csproj",
+        "projectPath": "F:\\University\\OOPDesign\\OOADCalendar\\OOADCalendar.csproj",
         "packagesPath": "C:\\Users\\anhmi\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding\\University\\OOAD\\OOADCalendar\\obj\\",
+        "outputPath": "F:\\University\\OOPDesign\\OOADCalendar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anhmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,24 +72,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.15, 6.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.15, 6.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.15, 6.0.15]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.15, 6.0.15]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

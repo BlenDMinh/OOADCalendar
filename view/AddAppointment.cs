@@ -8,9 +8,12 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace OOADCalendar.view {
-    public partial class AddAppointment : Form {
-        public AddAppointment() {
+namespace OOADCalendar.view
+{
+    public partial class AddAppointment : Form
+    {
+        public AddAppointment()
+        {
             InitializeComponent();
         }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BI3egS6kn6ze6wsDNgw314lT68t6Y79c0IhdNKUTx9XhVmlJOpeqE1+K4hfD45DfTwx93C9ucCIBzzvXhJDnwA==",
+  "dgSpecHash": "y4QJCGwUX/j8LjL7L7X5SvfsGGIpiitgNTxISSb69RhPCZxEU5gBR/T16BSxYfKFjoqjEHnEj34vHGnMx6SYYg==",
   "success": true,
-  "projectFilePath": "D:\\Coding\\University\\OOAD\\OOADCalendar\\OOADCalendar.csproj",
+  "projectFilePath": "F:\\University\\OOPDesign\\OOADCalendar\\OOADCalendar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anhmi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\anhmi\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.4\\microsoft.data.sqlite.core.7.0.4.nupkg.sha512",
@@ -33,11 +33,7 @@
     "C:\\Users\\anhmi\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\anhmi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\anhmi\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\anhmi\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
-    "C:\\Users\\anhmi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
-    "C:\\Users\\anhmi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
-    "C:\\Users\\anhmi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
-    "C:\\Users\\anhmi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+    "C:\\Users\\anhmi\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

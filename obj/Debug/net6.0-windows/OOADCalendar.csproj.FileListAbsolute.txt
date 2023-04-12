@@ -134,3 +134,4 @@ D:\Coding\University\OOAD\OOADCalendar\obj\Debug\net6.0-windows\refint\OOADCalen
 D:\Coding\University\OOAD\OOADCalendar\obj\Debug\net6.0-windows\OOADCalendar.pdb
 D:\Coding\University\OOAD\OOADCalendar\obj\Debug\net6.0-windows\OOADCalendar.genruntimeconfig.cache
 D:\Coding\University\OOAD\OOADCalendar\obj\Debug\net6.0-windows\ref\OOADCalendar.dll
+F:\University\OOPDesign\OOADCalendar\obj\Debug\net6.0-windows\OOADCalendar.view.AddAppointment.resources
