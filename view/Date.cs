@@ -12,12 +12,22 @@ namespace OOADCalendar.view
 {
     public partial class Date : UserControl
     {
-        int day;
+        public int day { get; set; }
         public Date(int day)
         {
             this.day = day;
             InitializeComponent();
             day_l.Text = day.ToString("00");
+        }
+        
+        public void setSelected() {
+            this.BackColor = Color.White;
+            day_l.BackColor = Color.White;
+        }
+
+        public void setUnselected() {
+            this.BackColor = Color.FromArgb(255, 171, 171);
+            day_l.BackColor = Color.FromArgb(255, 171, 171);
         }
     }
 }

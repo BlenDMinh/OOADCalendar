@@ -34,6 +34,7 @@
             date = new Label();
             button1 = new Button();
             button2 = new Button();
+            bAdd = new Button();
             SuspendLayout();
             // 
             // flowLayoutPanel
@@ -157,12 +158,26 @@
             button2.UseVisualStyleBackColor = true;
             button2.Click += button2_Click;
             // 
+            // bAdd
+            // 
+            bAdd.FlatStyle = FlatStyle.Flat;
+            bAdd.Font = new Font("Century Gothic", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            bAdd.Location = new Point(482, 46);
+            bAdd.Margin = new Padding(3, 2, 3, 2);
+            bAdd.Name = "bAdd";
+            bAdd.Size = new Size(82, 28);
+            bAdd.TabIndex = 11;
+            bAdd.Text = "Add";
+            bAdd.UseVisualStyleBackColor = true;
+            bAdd.Click += bAdd_Click;
+            // 
             // Calendar
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(252, 200, 209);
             ClientSize = new Size(672, 604);
+            Controls.Add(bAdd);
             Controls.Add(button2);
             Controls.Add(button1);
             Controls.Add(date);
@@ -195,5 +210,6 @@
         private Label date;
         private Button button1;
         private Button button2;
+        private Button bAdd;
     }
 }

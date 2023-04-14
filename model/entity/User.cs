@@ -1,3 +1,4 @@
+using SmartVaccine.model.utils;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,5 +10,12 @@ namespace OOADAppointment.model.entity
     {
         public int Id {get; set;}
         public List<Appointment>? Appointments {get; set;}
+
+        public User(List<Appointment>? appointments) {
+            Id = AutoIncrement<User>.GetCount();
+            Appointments = appointments;
+        }
+
+        public User() { }
     }
 }
